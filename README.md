@@ -1,2 +1,6 @@
-# Python_labyrinthe
-Initiation langage python Jeu du labyrinthe cf. LINUX - Hors série n°71 
+# Python
+Initiation langage python : 
+
+  Jeu + ou - cf scrtach webin: https://scratch.mit.edu/projects/248436455/
+  
+  Jeu du labyrinthe cf. LINUX - Hors série n°71 
