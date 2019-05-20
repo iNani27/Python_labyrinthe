@@ -3,4 +3,4 @@
 
   Jeu + ou - cf [scrtach webin](https://scratch.mit.edu/projects/248436455/)
   
-  Jeu du labyrinthe cf. LINUX - Hors série n°71 [see](https://repl.it/@inani/Labyrinthe)
+  Jeu du labyrinthe cf. LINUX - Hors série n°71 [see on repl.it](https://repl.it/@inani/Labyrinthe)
