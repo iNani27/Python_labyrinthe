@@ -1,6 +1,6 @@
 # Python
-Initiation langage python : 
+## Initiation langage python : 
 
-  Jeu + ou - cf scrtach webin: https://scratch.mit.edu/projects/248436455/
+  Jeu + ou - cf [scrtach webin](https://scratch.mit.edu/projects/248436455/)
   
-  Jeu du labyrinthe cf. LINUX - Hors série n°71 (ongoing on https://repl.it/@inani/Labyrinthe)
+  Jeu du labyrinthe cf. LINUX - Hors série n°71 [see](https://repl.it/@inani/Labyrinthe)
